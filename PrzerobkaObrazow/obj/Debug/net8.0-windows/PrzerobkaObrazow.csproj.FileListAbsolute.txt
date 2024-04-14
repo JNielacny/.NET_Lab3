@@ -1,0 +1,16 @@
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.exe
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.deps.json
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.runtimeconfig.json
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.dll
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.pdb
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.Form1.resources
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.csproj.GenerateResource.cache
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.AssemblyInfoInputs.cache
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.AssemblyInfo.cs
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.csproj.CoreCompileInputs.cache
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.dll
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\refint\PrzerobkaObrazow.dll
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.pdb
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.genruntimeconfig.cache
+D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\ref\PrzerobkaObrazow.dll
