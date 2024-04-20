@@ -44,7 +44,7 @@ namespace LAB3
             TimeSpan ts4 = TimeSpan.Zero;
             
             // Tablica do uruchomienia obliczeń z różnymi ilościami wątków
-            int[] threadCounts = { 1, 2, 4, 8 };
+            int[] threadCounts = { 1, 2, 4, 6 };
 
             // Tworzenie pierwszego wierza tabelki w konsoli
             Console.WriteLine("+--------------+---------------+-----------------+---------------------+");
@@ -95,12 +95,12 @@ namespace LAB3
                     stopwatch.Stop();
                     ts = stopwatch.Elapsed;
                     // Dla pierwszego przejścia macierze są mnożone również sekwencyjnie, po czym wynik zostaje wyświetlony w porównaniu
-                    Console.WriteLine($"| {threadCounts[j], -12} |     {ts3.Milliseconds}ms     |      {ts4.Milliseconds}ms      |        {ts.Milliseconds}ms        |");
+                    Console.WriteLine($"| {threadCounts[j], -12} |     {ts3}ms     |      {ts4}ms      |        {ts}ms        |");
                 }
                 else
                 {
                     // Dla reszty przejść macierze liczą się tylko za pomocą Thread i Parallel, a sekwencyjnie jest wypełniane "--" co ma oznaczać brak wyniku
-                    Console.WriteLine($"| {threadCounts[j], -12} |     {ts3.Milliseconds}ms     |      {ts4.Milliseconds}ms      |         --        |");
+                    Console.WriteLine($"| {threadCounts[j], -12} |     {ts3}ms     |      {ts4}ms      |         --        |");
                 }
             }
 

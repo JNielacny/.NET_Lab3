@@ -49,9 +49,9 @@ namespace LAB3
 
             for (int i = 0; i < numberOfThreads; i++)
             {
-                int start = i * blockSize;
-                int end = (i == numberOfThreads - 1) ? resultMatrix.GetLength(0) : (i + 1) * blockSize;
-
+                int start = blockSize * i;
+                int end = (i == numberOfThreads - 1) ? resultMatrix.GetLength(0) : blockSize * (i + 1);
+                if (end > resultMatrix.GetLength(0)) end = resultMatrix.GetLength(0);
                 threads[i] = new Thread(() =>
                 {
                     Multiply(matrixA, matrixB, resultMatrix, start, end);
@@ -61,7 +61,7 @@ namespace LAB3
             }
 
             foreach (Thread thread in threads)
-            {
+            {   
                 thread.Join();
             }
         }

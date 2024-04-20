@@ -40,3 +40,17 @@ D:\Users\nacze\Pulpit\MACIERZE2\LAB3\LAB3\obj\Debug\net8.0\refint\LAB3.dll
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\LAB3\obj\Debug\net8.0\LAB3.pdb
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\LAB3\obj\Debug\net8.0\LAB3.genruntimeconfig.cache
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\LAB3\obj\Debug\net8.0\ref\LAB3.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfoInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfo.cs
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\refint\LAB3.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\bin\Debug\net8.0\LAB3.exe
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\bin\Debug\net8.0\LAB3.deps.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\bin\Debug\net8.0\LAB3.runtimeconfig.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\bin\Debug\net8.0\LAB3.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\bin\Debug\net8.0\LAB3.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\LAB3.genruntimeconfig.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\LAB3\obj\Debug\net8.0\ref\LAB3.dll

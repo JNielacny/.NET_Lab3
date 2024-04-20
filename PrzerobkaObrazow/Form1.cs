@@ -43,7 +43,8 @@ namespace PrzerobkaObrazow
                     for (int j = 0; j < currentImg.Height; j++)
                     {
                         Color originalColor = currentImg.GetPixel(i, j); // Pobranie koloru piksela
-                        int grayScale = (int)((originalColor.R * 0.3) + (originalColor.G * 0.59) + (originalColor.B * 0.11)); // Obliczenie wartoœci szaroœci na podstawie wzoru
+                        // Obliczenie wartoœci szaroœci na podstawie wzoru
+                        int grayScale = (int)((originalColor.R * 0.3) + (originalColor.G * 0.59) + (originalColor.B * 0.11));
                         Color grayColor = Color.FromArgb(grayScale, grayScale, grayScale); // Utworzenie koloru szarego
                         grayImg.SetPixel(i, j, grayColor); // Ustawienie piksela na obrazie wynikowym
                     }

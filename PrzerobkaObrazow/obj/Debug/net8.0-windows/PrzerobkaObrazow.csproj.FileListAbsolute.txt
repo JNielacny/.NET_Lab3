@@ -14,3 +14,19 @@ D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\r
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.pdb
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.genruntimeconfig.cache
 D:\Users\nacze\Pulpit\MACIERZE2\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\ref\PrzerobkaObrazow.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.exe
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.deps.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.runtimeconfig.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\bin\Debug\net8.0-windows\PrzerobkaObrazow.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.Form1.resources
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.csproj.GenerateResource.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.AssemblyInfoInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.AssemblyInfo.cs
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\refint\PrzerobkaObrazow.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\PrzerobkaObrazow.genruntimeconfig.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\PrzerobkaObrazow\obj\Debug\net8.0-windows\ref\PrzerobkaObrazow.dll

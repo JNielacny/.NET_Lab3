@@ -1,0 +1,32 @@
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.exe
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.deps.json
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.runtimeconfig.json
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.dll
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.pdb
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.Form1.resources
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.csproj.GenerateResource.cache
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.AssemblyInfoInputs.cache
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.AssemblyInfo.cs
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.csproj.CoreCompileInputs.cache
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.dll
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\refint\ImageProcesing.dll
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.pdb
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.genruntimeconfig.cache
+C:\Dane\Studia\NET_JAVA\lab_3\ImageProcesing\obj\Debug\net8.0-windows\ref\ImageProcesing.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.exe
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.deps.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.runtimeconfig.json
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\bin\Debug\net8.0-windows\ImageProcesing.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.Form1.resources
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.csproj.GenerateResource.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.AssemblyInfoInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.AssemblyInfo.cs
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\refint\ImageProcesing.dll
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.pdb
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ImageProcesing.genruntimeconfig.cache
+C:\Users\Jakub Niełacny\Desktop\LAB3\ImageProcesing\obj\Debug\net8.0-windows\ref\ImageProcesing.dll
